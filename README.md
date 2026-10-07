@@ -1,35 +1,118 @@
-<h1 align="center">Hi 👋, I'm Deependra Kumar</h1>
-<h3 align="center">Full-Stack Developer building scalable web & mobile applications</h3>
+<!-- ============ HEADER BANNER ============ -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deependrak1125&label=Profile%20views&color=0e75b6&style=flat" alt="deependrak1125" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=220&section=header&text=Deependra%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Web%20%26%20Mobile&descAlignY=58&descSize=20" width="100%" alt="Deependra Kumar banner" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deependrak1125" alt="deependrak1125" /></a> </p>
+<a href="https://github.com/deependrak1125">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Deependra+Kumar;Building+scalable+web+%26+mobile+apps;React+%7C+Next.js+%7C+React+Native+%7C+Node.js;Turning+complex+requirements+into+simple+products+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on **🔭 I’m currently working on Employee Management & Work Management Systems**
+<br/>
 
-- 🌱 I’m currently learning **🌱 I’m currently learning Advanced System Design, AWS, Docker & scalable backend architecture**
+<img src="https://komarev.com/ghpvc/?username=deependrak1125&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/deependrak1125?label=Followers&style=for-the-badge&logo=github&color=6a11cb" alt="Followers" />
 
-- 👯 I’m looking to collaborate on **👯 I’m looking to collaborate on Open-source Full-Stack projects**
+</div>
 
-- 🤝 I’m looking for help with **🤝 I’m looking for help with System Design, Cloud Architecture & DevOps**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/deependrak1125](https://github.com/deependrak1125)
+## 👨‍💻 About Me
 
-- 💬 Ask me about **💬 Ask me about React, Next.js, React Native, Node.js, MongoDB, REST APIs & Docker**
+I'm a **Full-Stack Developer** who enjoys turning complex business requirements into clean, scalable products. I build across the stack: responsive web apps, cross-platform mobile apps, and the REST APIs behind them.
 
-- 📫 How to reach me **deependrakumar07906@gmail.com**
+| | |
+|---|---|
+| 🔭 **Working on** | Employee Management & Work Management Systems |
+| 🌱 **Learning** | Advanced System Design, AWS, Docker & scalable backend architecture |
+| 👯 **Collaborating on** | Open-source Full-Stack projects |
+| 🤝 **Looking for help with** | System Design, Cloud Architecture & DevOps |
+| 💬 **Ask me about** | React, Next.js, React Native, Node.js, MongoDB, REST APIs & Docker |
+| ⚡ **Fun fact** | I love shipping things that make complicated workflows feel simple |
 
-- ⚡ Fun fact **⚡ Fun fact I enjoy turning complex business requirements into simple, scalable products 🚀**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 🛠️ Tools & Technologies
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,sass,bootstrap,angular,vue,webpack" alt="frontend" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+**Backend & Databases**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deependrak1125&show_icons=true&locale=en&layout=compact" alt="deependrak1125" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql,redis,firebase" alt="backend" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deependrak1125&show_icons=true&locale=en" alt="deependrak1125" /></p>
+**Mobile, DevOps & Tools**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deependrak1125&" alt="deependrak1125" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,docker,aws,linux,git,github,postman,figma,photoshop" alt="tools" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=deependrak1125&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deependrak1125&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=deependrak1125&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=deependrak1125&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+> Pin your best 4–6 repos on your profile, or list them here.
+
+| Project | Description | Stack |
+|---|---|---|
+| **[Project Name](https://github.com/deependrak1125/REPO)** | One line on what it does and why it matters | `Next.js` `Node.js` `MongoDB` |
+| **[Project Name](https://github.com/deependrak1125/REPO)** | One line on what it does and why it matters | `React Native` `Express` |
+| **[Project Name](https://github.com/deependrak1125/REPO)** | One line on what it does and why it matters | `React` `Docker` |
+
+➡️ See everything at **[github.com/deependrak1125](https://github.com/deependrak1125?tab=repositories)**
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deependrak1125&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:deependrakumar07906@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/deependrak1125"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <!-- Add your own links below, then remove these comment markers
+  <a href="https://www.linkedin.com/in/YOUR-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  -->
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+
+⭐ *If you like my work, drop a star on a repo. It makes my day!* ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:0e75b6&height=100&section=footer" width="100%" alt="footer" />
+
+</div>
